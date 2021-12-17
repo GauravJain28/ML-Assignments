@@ -23,3 +23,10 @@ The problem statement of the assignment is present [here](./A3-Neural-Networks/A
 In this problem, we will train neural networks to classify two datasets- a binary class (Toy) dataset and a multi-class (Devanagri handwritten characters) dataset.
 
 For more details click [here](./A3-Neural-Networks/).
+
+## Assignment 4 : Convolutional Neural Networks
+The problem statement of the assignment is present [here](./A4-CNN/A4-PS.pdf).
+
+In this assignment, we work with Convolutional Neural Networks (CNN) and deep learning using the deep learning framework PyTorch. We perform image classification on two datasets- Devanagari handwritten characters dataset and CIFAR10 dataset.
+
+For more details click [here](./A4-CNN/).
