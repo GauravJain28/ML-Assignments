@@ -1,7 +1,9 @@
 # Assignment 3: Neural Networks
 The problem statement of the assignment is present [here](A3-PS.pdf).
 
-In this problem, we will train neural networks to classify two datasets- a binary class (Toy) dataset and a multi-class (Devanagri handwritten characters) dataset.
+In this problem, we will train neural networks to classify two datasets- a binary class (Toy) dataset and a multi-class (Devanagri handwritten characters) dataset.\
+Toy dataset is present in this [link](https://drive.google.com/drive/folders/17eLXUEzaE1qr7X-TYT9qhAi2fMujYf61?usp=sharing).\
+Devanagri handwritten characters dataset is present in this [link](https://drive.google.com/drive/folders/1OLyI4Dz_jsGz4VCX9RfuVsibON9Yl3wr?usp=sharing).
 
 The assignment contains four parts:
 - Implementation of a general neural network for binary class datasets with support for different loss functions (Cross-Entropy Loss/Mean-Square Loss) and different activation functions (Sigmoid/tanh/ReLU).\
